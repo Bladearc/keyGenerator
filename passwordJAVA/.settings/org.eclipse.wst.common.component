@@ -5,6 +5,7 @@
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/model"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/view"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/controller"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/test/java"/>
         <property name="context-root" value="passwordJAVA"/>
         <property name="java-output-path" value="/passwordJAVA/build/classes"/>
     </wb-module>
